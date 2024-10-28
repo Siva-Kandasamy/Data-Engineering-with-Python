@@ -27,7 +27,7 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1839
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
-All of the code is organized into folders.
+All of the code is organized into folders. Adding temp line to check git repository processes. 
 
 
 The code will look like the following:
