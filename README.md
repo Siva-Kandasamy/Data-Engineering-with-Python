@@ -29,6 +29,7 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1839
 ## Instructions and Navigations
 All of the code is organized into folders.
 
+
 The code will look like the following:
 ```
 import datetime as dt
